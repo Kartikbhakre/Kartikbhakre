@@ -5,7 +5,7 @@
 ## 🚀 Skills
 - HTML, CSS, JavaScript  
 - Java (Basic)  
-- DSA (Array, Stack, Queue)
+- Data Structure & Algorithm
 
 ## 📌 Projects
 - Coming Soon...
