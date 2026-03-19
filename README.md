@@ -11,4 +11,4 @@
 - Coming Soon...
 
 ## 📫 Contact
-- LinkedIn: (add later)
+- LinkedIn: https://www.linkedin.com/in/kartik-bhakre
